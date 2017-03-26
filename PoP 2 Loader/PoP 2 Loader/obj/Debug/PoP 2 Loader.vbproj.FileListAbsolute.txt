@@ -1,0 +1,2 @@
+C:\Users\T54\AppData\Local\Temporary Projects\PoP 2 Loader\bin\Debug\PoP 2 Loader.exe.config
+B:\Documents\Home\PoP 2 Loader\PoP 2 Loader\bin\Debug\PoP 2 Loader.exe.config
