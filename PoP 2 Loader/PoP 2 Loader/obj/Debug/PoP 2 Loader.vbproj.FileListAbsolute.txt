@@ -10,3 +10,6 @@ B:\Documents\Home\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP 2 Loader.vbproj.Genera
 B:\Documents\Home\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP 2 Loader.exe
 B:\Documents\Home\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP 2 Loader.xml
 B:\Documents\Home\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP 2 Loader.pdb
+N:\My Documents\PoP-2-Loader-master\PoP-2-Loader-master\PoP 2 Loader\PoP 2 Loader\bin\Debug\PoP 2 Loader.exe.config
+N:\My Documents\PoP-2-Loader-master\PoP-2-Loader-master\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP 2 Loader.xml
+N:\My Documents\PoP-2-Loader-master\PoP-2-Loader-master\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP 2 Loader.pdb
