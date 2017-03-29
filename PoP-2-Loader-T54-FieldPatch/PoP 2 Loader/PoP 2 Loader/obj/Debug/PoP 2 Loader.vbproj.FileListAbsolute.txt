@@ -25,3 +25,7 @@ B:\Documents\Home\PoP-2-Loader-T54-FieldPatch\PoP 2 Loader\PoP 2 Loader\obj\Debu
 B:\Documents\Home\PoP-2-Loader-T54-FieldPatch\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP_2_Loader.Form1.resources
 B:\Documents\Home\PoP-2-Loader-T54-FieldPatch\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP_2_Loader.Resources.resources
 B:\Documents\Home\PoP-2-Loader-T54-FieldPatch\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP 2 Loader.vbproj.GenerateResource.Cache
+C:\Users\T54\Source\Repos\PoP-2-Loader\PoP-2-Loader-T54-FieldPatch\PoP 2 Loader\PoP 2 Loader\bin\Debug\PoP 2 Loader.exe.config
+C:\Users\T54\Source\Repos\PoP-2-Loader\PoP-2-Loader-T54-FieldPatch\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP 2 Loader.exe
+C:\Users\T54\Source\Repos\PoP-2-Loader\PoP-2-Loader-T54-FieldPatch\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP 2 Loader.xml
+C:\Users\T54\Source\Repos\PoP-2-Loader\PoP-2-Loader-T54-FieldPatch\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP 2 Loader.pdb
